@@ -12,7 +12,7 @@ Here it is:
 <!doctype html><title>·</title>
 ```
 
-_Psst, you may want to download the [HTML file](src/smlst.html)_.
+_Psst, you may want to download the [HTML file](smlst.html)_.
 
 ### Hum, is there any use-case for this?
 
