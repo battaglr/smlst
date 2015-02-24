@@ -18,10 +18,10 @@ _Psst, you may want to download the [HTML file](smlst.html)_.
 
 Yup. You can use it to:
 
-+ Create a really quick prototype.
-+ Validate a chunk of HTML though the [W3C Validator]
+- Create a really quick prototype.
+- Validate a chunk of HTML though the [W3C Validator]
   (http://validator.w3.org/#validate_by_input).
-+ Make your coworkers think you’re cool.
+- Make your coworkers think you’re cool.
 
 ## License
 
